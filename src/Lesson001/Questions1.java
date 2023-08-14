@@ -6,6 +6,9 @@ public class Questions1 {
 		// TODO Auto-generated method stub
 		System.out.println("Github denemesi");
 		// ctrl + s 
+		// Class isimleri CamelCase biçiminde isimlendirilir.  
+		
+		
 	}
 
 }
