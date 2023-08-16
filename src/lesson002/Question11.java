@@ -31,7 +31,13 @@ public class Question11 {
        /* alan = (pi*(r*r));
         cevre= (2*pi*r);
         System.out.println(" Daire alan  " +alan );
-        System.out.println(" Daire cevre  " +cevre ); */
+        System.out.println(" Daire cevre  " +cevre );
+        
+         *Araştırma konuları
+         *primitive tipleri nelerdir. farkları nelerdir.
+         *final nedir niye kullanırız avantajları
+         *
+         */ 
         
         
 
