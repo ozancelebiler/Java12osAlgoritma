@@ -17,8 +17,7 @@ public class Question20 {
 		sayi--;		
 		}
 		System.out.println(toplam);
-		
-		
+				
 	}
 
 }
